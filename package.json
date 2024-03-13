@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "https://rezaprtma.github.io/Test-CodeSpace",
+  "homepage": "https://rezaprtma391.github.io/Test-CodeSpace",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
